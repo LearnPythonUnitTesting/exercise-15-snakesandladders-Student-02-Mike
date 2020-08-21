@@ -1,8 +1,8 @@
 {
   "tests": [
     {
-      "name": "install setuptools",
-      "setup": "install setuptools",
+      "name": "setuptools",
+      "setup": "",
       "run": "sudo apt-get install python3-setuptools",
       "input": "",
       "output": "",
